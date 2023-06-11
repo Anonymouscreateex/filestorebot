@@ -62,7 +62,7 @@
     },
     "buildpacks": [
         {
-            "url": "@vercel/python"
+            "url": "heroku/python"
         }
     ],
     "formation": {
